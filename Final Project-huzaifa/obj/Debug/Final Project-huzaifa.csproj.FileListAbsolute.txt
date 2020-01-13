@@ -1,0 +1,39 @@
+U:\Documents\Visual Studio 2015\Projects\Final Project-huzaifa\Final Project-huzaifa\bin\Debug\Final Project-huzaifa.exe.config
+U:\Documents\Visual Studio 2015\Projects\Final Project-huzaifa\Final Project-huzaifa\bin\Debug\Final Project-huzaifa.exe
+U:\Documents\Visual Studio 2015\Projects\Final Project-huzaifa\Final Project-huzaifa\bin\Debug\Final Project-huzaifa.pdb
+U:\Documents\Visual Studio 2015\Projects\Final Project-huzaifa\Final Project-huzaifa\obj\Debug\Final Project-huzaifa.csprojResolveAssemblyReference.cache
+U:\Documents\Visual Studio 2015\Projects\Final Project-huzaifa\Final Project-huzaifa\obj\Debug\Final_Project_huzaifa.Form1.resources
+U:\Documents\Visual Studio 2015\Projects\Final Project-huzaifa\Final Project-huzaifa\obj\Debug\Final_Project_huzaifa.Properties.Resources.resources
+U:\Documents\Visual Studio 2015\Projects\Final Project-huzaifa\Final Project-huzaifa\obj\Debug\Final Project-huzaifa.csproj.GenerateResource.Cache
+U:\Documents\Visual Studio 2015\Projects\Final Project-huzaifa\Final Project-huzaifa\obj\Debug\Final Project-huzaifa.exe
+U:\Documents\Visual Studio 2015\Projects\Final Project-huzaifa\Final Project-huzaifa\obj\Debug\Final Project-huzaifa.pdb
+D:\Final Project-huzaifa\Final Project-huzaifa\bin\Debug\Final Project-huzaifa.exe.config
+D:\Final Project-huzaifa\Final Project-huzaifa\obj\Debug\Final Project-huzaifa.exe
+D:\Final Project-huzaifa\Final Project-huzaifa\obj\Debug\Final Project-huzaifa.pdb
+D:\Final Project-huzaifa\Final Project-huzaifa\bin\Debug\Final Project-huzaifa.exe
+D:\Final Project-huzaifa\Final Project-huzaifa\bin\Debug\Final Project-huzaifa.pdb
+D:\Final Project-huzaifa\Final Project-huzaifa\obj\Debug\Final Project-huzaifa.csprojResolveAssemblyReference.cache
+D:\Final Project-huzaifa\Final Project-huzaifa\obj\Debug\Final_Project_huzaifa.Form1.resources
+D:\Final Project-huzaifa\Final Project-huzaifa\obj\Debug\Final_Project_huzaifa.Properties.Resources.resources
+D:\Final Project-huzaifa\Final Project-huzaifa\obj\Debug\Final Project-huzaifa.csproj.GenerateResource.Cache
+D:\Final Project-huzaifa\Final Project-huzaifa\bin\Debug\AudioPlayer.pdb
+E:\Final Project-huzaifa\Final Project-huzaifa\bin\Debug\Final Project-huzaifa.exe.config
+E:\Final Project-huzaifa\Final Project-huzaifa\obj\Debug\Final Project-huzaifa.exe
+E:\Final Project-huzaifa\Final Project-huzaifa\obj\Debug\Final Project-huzaifa.pdb
+E:\Final Project-huzaifa\Final Project-huzaifa\bin\Debug\Final Project-huzaifa.exe
+E:\Final Project-huzaifa\Final Project-huzaifa\bin\Debug\Final Project-huzaifa.pdb
+E:\Final Project-huzaifa\Final Project-huzaifa\bin\Debug\AudioPlayer.pdb
+E:\Final Project-huzaifa\Final Project-huzaifa\obj\Debug\Final Project-huzaifa.csprojResolveAssemblyReference.cache
+E:\Final Project-huzaifa\Final Project-huzaifa\obj\Debug\Final_Project_huzaifa.Form1.resources
+E:\Final Project-huzaifa\Final Project-huzaifa\obj\Debug\Final_Project_huzaifa.Properties.Resources.resources
+E:\Final Project-huzaifa\Final Project-huzaifa\obj\Debug\Final Project-huzaifa.csproj.GenerateResource.Cache
+F:\Final Project-huzaifa\Final Project-huzaifa\bin\Debug\Final Project-huzaifa.exe.config
+F:\Final Project-huzaifa\Final Project-huzaifa\obj\Debug\Final Project-huzaifa.exe
+F:\Final Project-huzaifa\Final Project-huzaifa\obj\Debug\Final Project-huzaifa.pdb
+F:\Final Project-huzaifa\Final Project-huzaifa\obj\Debug\Final Project-huzaifa.csprojResolveAssemblyReference.cache
+F:\Final Project-huzaifa\Final Project-huzaifa\obj\Debug\Final_Project_huzaifa.Form1.resources
+F:\Final Project-huzaifa\Final Project-huzaifa\obj\Debug\Final_Project_huzaifa.Properties.Resources.resources
+F:\Final Project-huzaifa\Final Project-huzaifa\obj\Debug\Final Project-huzaifa.csproj.GenerateResource.Cache
+F:\Final Project-huzaifa\Final Project-huzaifa\bin\Debug\Final Project-huzaifa.exe
+F:\Final Project-huzaifa\Final Project-huzaifa\bin\Debug\Final Project-huzaifa.pdb
+F:\Final Project-huzaifa\Final Project-huzaifa\bin\Debug\AudioPlayer.pdb
