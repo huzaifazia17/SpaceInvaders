@@ -12,11 +12,7 @@ using System.IO;
 using System.Drawing.Text;
 using AudioPlayer;
 
-// Huzaifa Zia
-// 2019-06-16
-// Final Project
-// ICS 3U1
-// Mr.Chaktsiris
+
 
 namespace Final_Project_huzaifa
 {
